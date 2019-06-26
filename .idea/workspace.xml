@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db561db-b8f0-4c58-830f-aefc54f3a4fc" name="Default Changelist" comment="" />
+    <list default="true" id="9db561db-b8f0-4c58-830f-aefc54f3a4fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FullWebApp1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FullWebApp1/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FullWebApp1/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="137" selection-start-line="137" selection-end-line="137" />
+            <state relative-caret-position="306">
+              <caret line="133" column="29" lean-forward="true" selection-start-line="133" selection-start-column="29" selection-end-line="133" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -288,7 +291,7 @@
       <workItem from="1561463873513" duration="11626000" />
       <workItem from="1561484154393" duration="1228000" />
       <workItem from="1561535918486" duration="1706000" />
-      <workItem from="1561561331500" duration="1478000" />
+      <workItem from="1561561331500" duration="2068000" />
     </task>
     <servers />
   </component>
@@ -298,7 +301,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62017000" />
+    <option name="totallyTimeSpent" value="62607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -620,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FullWebApp1/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        <state relative-caret-position="306">
+          <caret line="133" column="29" lean-forward="true" selection-start-line="133" selection-start-column="29" selection-end-line="133" selection-end-column="29" />
         </state>
       </provider>
     </entry>
