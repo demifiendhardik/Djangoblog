@@ -42,9 +42,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FullWebApp1/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -62,6 +71,9 @@
       <find>sideb</find>
       <find>nav</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,13 +101,13 @@
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_done.html" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
-        <option value="$PROJECT_DIR$/FullWebApp1/settings.py" />
         <option value="$PROJECT_DIR$/FullWebApp1/urls.py" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_complete.html" />
         <option value="$PROJECT_DIR$/users/templates/users/login.html" />
         <option value="$PROJECT_DIR$/posts.json" />
         <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/FullWebApp1/settings.py" />
       </list>
     </option>
   </component>
@@ -103,6 +115,7 @@
     <option name="width" value="160" />
     <option name="height" value="38" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -176,6 +189,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -274,7 +288,7 @@
       <workItem from="1561463873513" duration="11626000" />
       <workItem from="1561484154393" duration="1228000" />
       <workItem from="1561535918486" duration="1706000" />
-      <workItem from="1561561331500" duration="1005000" />
+      <workItem from="1561561331500" duration="1478000" />
     </task>
     <servers />
   </component>
@@ -284,13 +298,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61544000" />
+    <option name="totallyTimeSpent" value="62017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.19012944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.19012944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5023148" side_tool="true" weight="0.1553398" />
@@ -305,7 +319,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -526,13 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FullWebApp1/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="136" selection-start-line="136" selection-end-line="136" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/templates/users/password_reset_complete.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -610,6 +617,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FullWebApp1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

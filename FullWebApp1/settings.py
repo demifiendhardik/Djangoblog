@@ -117,6 +117,7 @@ USE_TZ = True
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
+STATIC_ROUTE = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
 MEDIA_ROUTE = os.path.join(BASE_DIR, 'media')
@@ -134,4 +135,5 @@ EMAIL_USE_TLS = True
 
 EMAIL_HOST_USER = os.environ.get('EMAIL_USER')
 EMAIL_HOST_PASSWORD = 'mubrvoqwsksxuzct'
+
 
