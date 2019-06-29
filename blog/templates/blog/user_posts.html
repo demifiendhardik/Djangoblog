@@ -3,12 +3,12 @@
     <h1 class="mb-3">Posts by {{ view.kwargs.username }} ({{ page_obj.paginator.count }})</h1>
     <div class="content-section">
     {% for k in posts|slice:":1" %}
-            <h3>Location: {{ k.author.profile.location }}</h3>
+            <h5>Location: </h5> <small>{{ k.author.profile.location }}</small>
             <br>
-            <h3>Bio {{ k.author.profile.bio }}</h3>
+            <h5>Bio: </h5> <small>{{ k.author.profile.bio }}</small>
     {% endfor %}
     </div>
-    {% for post in posts %}s
+    {% for post in posts %}
         <article class="media content-section">
         <img class="rounded-circle article-img" src="{{ post.author.profile.image.url }}">
           <div class="media-body">
