@@ -1,5 +1,5 @@
 Babel==2.7.0
-boto3=1.9.180
+boto3==1.9.180
 colorama==0.4.1
 Django==2.2.2
 django-crispy-forms==1.7.2
