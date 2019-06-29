@@ -8,6 +8,7 @@
             <small>Bio {{ k.author.profile.bio }}</small>
         {% endif %}
     {% endfor %}
+    {% endblock set %}
     {% for post in posts %}s
         <article class="media content-section">
         <img class="rounded-circle article-img" src="{{ post.author.profile.image.url }}">
