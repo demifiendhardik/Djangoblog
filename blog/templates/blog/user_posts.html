@@ -1,10 +1,13 @@
 {% extends "blog/base.html" %}
 {% block content %}
     <h1 class="mb-3">Posts by {{ view.kwargs.username }} ({{ page_obj.paginator.count }})</h1>
+    <div class="content-section">
     {% for k in posts|slice:":1" %}
-            <small>Location: {{ k.author.profile.location }}</small>
-            <small>Bio {{ k.author.profile.bio }}</small>
+            <h3>Location: {{ k.author.profile.location }}</h3>
+            <br>
+            <h3>Bio {{ k.author.profile.bio }}</h3>
     {% endfor %}
+    </div>
     {% for post in posts %}s
         <article class="media content-section">
         <img class="rounded-circle article-img" src="{{ post.author.profile.image.url }}">
