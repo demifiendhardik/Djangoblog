@@ -7,7 +7,7 @@
         <div class="media-body">
           <h2 class="account-heading">{{ user.username }}</h2>
           <p class="text-secondary">{{ user.email }}</p>
-          <a class="mr-2" href="{% url 'user-posts' user.username %}">Posts by {{ user.FirstName }}</a>
+          <a class="mr-2" href="{% url 'user-posts' user.username %}">Posts by {{ user.username }}</a>
         </div>
       </div>
     <div class="content-section">
